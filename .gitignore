@@ -1,0 +1,6 @@
+workspace/code/memory_example
+workspace/code/squadron_registry
+workspace/tests/*.out
+workspace/tests/*.err
+workspace/tests/*.diff
+workspace/tests/*.vg
